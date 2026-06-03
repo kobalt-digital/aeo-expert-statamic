@@ -3,12 +3,17 @@
     "description": "Boost your AI-readiness score. Auto-fixes for llms.txt, schema.org, robots.txt AI-bot rules, .well-known endpoints, and more.",
     "keywords": ["statamic", "aeo", "llms-txt", "schema", "ai-readiness", "seo"],
     "license": "MIT",
+    "homepage": "https://github.com/kobalt-digital/aeo-expert-statamic",
     "authors": [
         {
             "name": "Kobalt Digital",
             "homepage": "https://kobaltdigital.nl"
         }
     ],
+    "support": {
+        "issues": "https://github.com/kobalt-digital/aeo-expert-statamic/issues",
+        "source": "https://github.com/kobalt-digital/aeo-expert-statamic"
+    },
     "require": {
         "php": "^8.1",
         "statamic/cms": "^4.0 || ^5.0"
